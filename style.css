@@ -1,0 +1,27 @@
+body {
+    background-color: #efefef;
+}
+
+.input_field {
+    background-color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: 1px solid #333;
+    overflow: auto;
+    word-break: break-word;
+    white-space: pre-wrap;
+}
+
+.output {
+    min-height: 15px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    word-break: break-word;
+    white-space: pre-wrap;
+    background-color: #ccc;
+    border: 1px solid #333;
+}
+
+[title="Hosted on free web hosting 000webhost.com. Host your own website for FREE."] {
+    display: none;
+}
